@@ -25,8 +25,6 @@ This year (2025), I am aiming to learn TypeScript and the MERN stack.
 ## My interests
 I love creating educational web applications and spending time with my cat 
 
-<img src="https://github.com/user-attachments/assets/9d37a8b3-e5a4-47e8-83bd-960f2e623648" alt="black and white cat emoji" width="100"/>
-
 <!--
 **Nadia982/Nadia982** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
