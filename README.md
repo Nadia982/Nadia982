@@ -4,7 +4,7 @@
 I am based near London, UK, and am available for remote work.
 
 ## How to contact me
-If you would like to get in touch, please send me a message or connection request via my [LinkedIn profile](https://www.linkedin.com/in/natalie-g-b947331a/) (leave a note that you found me via my GitHub profile).
+If you would like to get in touch, please go to my [LinkedIn profile](https://www.linkedin.com/in/natalie-g-b947331a/) and send me a message or connection request (leave a note that you found me via GitHub).
 
 ## My skills
 I am knowledgeable about: 
